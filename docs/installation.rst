@@ -2,6 +2,8 @@
 Installation
 ============
 
-Install the package with pip::
+Install the package with your favorite package manager::
 
-    $ pip install read-the-docs-template
+    $ apt install kapt
+    $ pacman -S kapt
+    $ apk add kapt
