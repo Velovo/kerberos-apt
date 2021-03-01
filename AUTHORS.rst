@@ -1,6 +1,7 @@
 Authors
 -------
 
-* Arth
-
+* avan
+* wand
+* mboi
 
