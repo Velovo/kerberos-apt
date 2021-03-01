@@ -4,8 +4,10 @@ Installation
 
 Install the package with your favorite package manager::
 
-    $ apt install kapt  
+    $ apt install kapt
+or::
 
-    $ pacman -S kapt  
+    $ pacman -S kapt
+or::
 
-    $ apk add kapt  
+    $ apk add kapt
