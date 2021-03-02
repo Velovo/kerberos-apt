@@ -163,7 +163,7 @@ Rules and info for a valid ticket::
 alternative::
 
    The sum of all the numbers modulo 7 must be equal to 3  
-   The 9th, 5th and 13th character is respectively the floor row and place where the ticket has been created, it must be numeric  
+   The 9th, 5th and 13th must be numeric  
    Character E and S must be present in the ticket  
    Character V and A must not be present   
    
