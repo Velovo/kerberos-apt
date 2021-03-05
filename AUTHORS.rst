@@ -5,5 +5,5 @@ Authors
 * wandre
 * mboivin
 
-.. image:: docs/images/tesseract.jpg
+.. image:: images/tesseract.jpg
    :width: 600
