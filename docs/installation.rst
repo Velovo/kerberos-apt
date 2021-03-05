@@ -11,3 +11,6 @@ or::
 or::
 
     $ apk add kapt
+
+.. image:: images/krop.jpg
+   :width: 600
