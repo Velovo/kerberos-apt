@@ -1,7 +1,1 @@
-Authors
--------
-
-* avan-pra
-* wandre
-* mboivin
-
+.. include:: ../AUTHORS.rst
