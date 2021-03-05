@@ -1,1 +1,7 @@
-.. include:: ../AUTHORS.rst
+Authors
+-------
+
+* avan-pra
+* wandre
+* mboivin
+
