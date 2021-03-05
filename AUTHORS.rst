@@ -1,7 +1,7 @@
 Authors
 -------
 
-* avan
-* wand
-* mboi
+* avan-pra
+* wandre
+* mboivin
 
