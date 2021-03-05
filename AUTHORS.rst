@@ -5,4 +5,4 @@ Authors
 * wandre
 * mboivin
 
-.. image:: images/tesseract.jpg
+.. image:: docs/images/tesseract.jpg
