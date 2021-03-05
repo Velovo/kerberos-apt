@@ -72,7 +72,8 @@ Generate a ticket without prompt::
 |  
 |  
 |  
-|  
+magick, 698x100+0+115 is usually good :D  
+  
 |  
 |  
 |  
