@@ -6,3 +6,4 @@ Authors
 * mboivin
 
 .. image:: docs/images/tesseract.jpg
+   :width: 600
